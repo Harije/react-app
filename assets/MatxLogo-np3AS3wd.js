@@ -1,0 +1,1 @@
+import{n as t,j as e}from"./index-BJBR--Pu.js";function g({className:o}){const{settings:s}=t();return s.themes[s.activeTheme],e.jsx("img",{src:"/assets/images/logo/swathi-logo.png",alt:"logo"})}export{g as M};
